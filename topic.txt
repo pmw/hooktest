@@ -1,2 +1,3 @@
 hello
 Try push -u.
+No, -u does the wrong thing.
