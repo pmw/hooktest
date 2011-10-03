@@ -6,3 +6,4 @@ This is a round-trip checkin on the branch.
 
 Cookie test.
 
+Renamed cookie test.
