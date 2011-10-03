@@ -1,3 +1,5 @@
 hello
 Try push -u.
 No, -u does the wrong thing.
+
+This is a round-trip checkin on the branch.
